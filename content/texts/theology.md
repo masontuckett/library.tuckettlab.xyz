@@ -20,7 +20,7 @@ My collection of theological works—ranging from exoteric, foundational texts t
 
 [King James Bible](/texts/theology/King_James-The_Bible.epub)
 
-[Doauy-Rheims Bible](/texts/theology/Doauy_Rheims-The_Bible.epub)
+[Douay-Rheims Bible](/texts/theology/Douay_Rheims-The_Bible.epub)
 
 ### Saints
 

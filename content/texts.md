@@ -9,7 +9,7 @@ author = "Mason Tuckett"
 description = "Mason Tuckett's Categories Page"
 +++
 
-This is largely an archive and recommended reading list—as I do not intend to commit copyright infringement. 
+This is largely an archive and curated reading list—as I do not intend to commit copyright infringement. 
 
 All downloadable texts are within the [public domain](https://www.gutenberg.org/help/faq.html) and legitimate under intellectual protection clauses for personal consumption. 
 
