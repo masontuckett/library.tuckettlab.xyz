@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>library.tuckettlab.xyz</title>
+    <link>https://library.tuckettlab.xyz/</link>
+    <description>Recent content on library.tuckettlab.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>mason@tuckett.xyz (Mason Tuckett)</managingEditor>
+    <webMaster>mason@tuckett.xyz (Mason Tuckett)</webMaster>
+    <copyright>Copyright ©2025 Mason Tuckett All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 28 Dec 2024 00:34:17 -0700</lastBuildDate>
+    <atom:link href="https://library.tuckettlab.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://library.tuckettlab.xyz/about/</link>
+      <pubDate>Sat, 28 Dec 2024 00:38:44 -0700</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <guid>https://library.tuckettlab.xyz/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Per the request of some close friends:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I created this website as a way of offering a comprehensive reading list, primarily the Western canon, with more modern sensibilites.&lt;/p&gt;&#xA;&lt;p&gt;Although I do believe in the presupposition of objective value (high culture)—I find many authors, whom I heavily disagree with, to provide invaluable points of view.&lt;/p&gt;&#xA;&lt;p&gt;My worldview is significantly influenced by my traditional Catholic leanings—wherein I&amp;rsquo;m quite sure the same criticism may be levied against my literary choices.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="about">About</h1>
+<p><strong>Per the request of some close friends:</strong></p>
+<p>I created this website as a way of offering a comprehensive reading list, primarily the Western canon, with more modern sensibilites.</p>
+<p>Although I do believe in the presupposition of objective value (high culture)—I find many authors, whom I heavily disagree with, to provide invaluable points of view.</p>
+<p>My worldview is significantly influenced by my traditional Catholic leanings—wherein I&rsquo;m quite sure the same criticism may be levied against my literary choices.</p>
+<p>As of recent, I was already in the process of digitizing much of my physical library—so I found this to be a far more appropriate way of sharing material with others.</p>
+<p>Unfortunately, many of my books are not available within the public domain, so begrudgingly, I had to utilize subpar editions and translations.</p>
+<small><i><b>Texts that were not available will still be listed; although, for those available, I'd still search for the "correct" translations.</b></i></small>
+
+<p>For the foreseeable future, I will be working on this site when I have enough free time; sadly, I have very few hours of leisure.</p>
+<small><i><b>It may take a few weeks or even months to digitize everything necessary.</b></i></small>
+
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://library.tuckettlab.xyz/contact/</link>
+      <pubDate>Sat, 28 Dec 2024 00:38:44 -0700</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <guid>https://library.tuckettlab.xyz/contact/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;For any questions or concerns, feel free to contact me: &lt;a href=&#34;mailto:mason@tuckett.xyz&#34;&gt;mason@tuckett.xyz&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://github.com/masontuckett/masontuckett.gpg&#xA;https://keys.openpgp.org/vks/v1/by-fingerprint/7272B8036060E4590218A95D11F58765E7B21193&#xA;curl -sL https://masontuckett.xyz/masontuckett.gpg | gpg --import&#xA;&#xA;Fingerprint: 7272 B803 6060 E459 0218  A95D 11F5 8765 E7B2 1193&#xA;&#xA;-----BEGIN PGP PUBLIC KEY BLOCK-----&#xA;&#xA;mDMEZ3XrbxYJKwYBBAHaRw8BAQdAz+/91ie1lkab6ejN48xj8C0yM82SaH8ydwPS&#xA;oQrkvpK0O01hc29uIFR1Y2tldHQgKE1hc29uIFR1Y2tldHQncyBHUEcgS2V5KSA8&#xA;bWFzb25AdHVja2V0dC54eXo+iJMEExYKADsWIQRycrgDYGDkWQIYqV0R9Ydl57IR&#xA;kwUCZ3XrbwIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAR9Ydl57IR&#xA;k05KAQCy9etjm+j4XX26mPfnUie6Q0eQ4kRhCbzvii0HqsmhfgEA29kBHodFIKgB&#xA;e8WLjjnH9t586rv/vZWusJTM6IVqqQ64OARndetvEgorBgEEAZdVAQUBAQdAxDju&#xA;2v2k8NHg8okRHgBQT6I2KSEt5gPCHNBAicNqwQMDAQgHiHgEGBYKACAWIQRycrgD&#xA;YGDkWQIYqV0R9Ydl57IRkwUCZ3XrbwIbDAAKCRAR9Ydl57IRk7LRAQCvogMCAqqM&#xA;f3tW2mzkXxTb/aaqwikvNtLULtiXbxmcsAD/dUsAHGpenYJ5Kh8XNUteyhm+zADm&#xA;t6vN2CWgUgXvgQM=&#xA;=GG33&#xA;-----END PGP PUBLIC KEY BLOCK-----&lt;/code&gt;&lt;/pre&gt;</description>
+      <content:encoded><![CDATA[<h1 id="contact">Contact</h1>
+<p>For any questions or concerns, feel free to contact me: <a href="mailto:mason@tuckett.xyz">mason@tuckett.xyz</a></p>
+
+
+
+
+
+<pre tabindex="0"><code>https://github.com/masontuckett/masontuckett.gpg
+https://keys.openpgp.org/vks/v1/by-fingerprint/7272B8036060E4590218A95D11F58765E7B21193
+curl -sL https://masontuckett.xyz/masontuckett.gpg | gpg --import
+
+Fingerprint: 7272 B803 6060 E459 0218  A95D 11F5 8765 E7B2 1193
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZ3XrbxYJKwYBBAHaRw8BAQdAz+/91ie1lkab6ejN48xj8C0yM82SaH8ydwPS
+oQrkvpK0O01hc29uIFR1Y2tldHQgKE1hc29uIFR1Y2tldHQncyBHUEcgS2V5KSA8
+bWFzb25AdHVja2V0dC54eXo+iJMEExYKADsWIQRycrgDYGDkWQIYqV0R9Ydl57IR
+kwUCZ3XrbwIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAR9Ydl57IR
+k05KAQCy9etjm+j4XX26mPfnUie6Q0eQ4kRhCbzvii0HqsmhfgEA29kBHodFIKgB
+e8WLjjnH9t586rv/vZWusJTM6IVqqQ64OARndetvEgorBgEEAZdVAQUBAQdAxDju
+2v2k8NHg8okRHgBQT6I2KSEt5gPCHNBAicNqwQMDAQgHiHgEGBYKACAWIQRycrgD
+YGDkWQIYqV0R9Ydl57IRkwUCZ3XrbwIbDAAKCRAR9Ydl57IRk7LRAQCvogMCAqqM
+f3tW2mzkXxTb/aaqwikvNtLULtiXbxmcsAD/dUsAHGpenYJ5Kh8XNUteyhm+zADm
+t6vN2CWgUgXvgQM=
+=GG33
+-----END PGP PUBLIC KEY BLOCK-----</code></pre>]]></content:encoded>
+    </item>
+    <item>
+      <title>Categories</title>
+      <link>https://library.tuckettlab.xyz/texts/</link>
+      <pubDate>Fri, 17 Oct 2025 05:37:54 -0600</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <guid>https://library.tuckettlab.xyz/texts/</guid>
+      <description>&lt;p&gt;This is largely an archive and recommended reading list—as I do not intend to commit copyright infringement.&lt;/p&gt;&#xA;&lt;p&gt;All downloadable texts are within the &lt;a href=&#34;https://www.gutenberg.org/help/faq.html&#34;&gt;public domain&lt;/a&gt; and legitimate under intellectual protection clauses for personal consumption.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;To my dismay, my preferred copies and translations may not be used.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;DISCLAIMER:&lt;/strong&gt; &lt;em&gt;Included authors may be somewhat controversial.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;small&gt;&lt;i&gt;&lt;b&gt;If you are uninterested in engaging with these texts critically—please leave my site.&lt;/b&gt;&lt;/i&gt;&lt;/small&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: &lt;em&gt;this is still largely unfinished; the texts are mostly organized chronologically.&lt;/em&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is largely an archive and recommended reading list—as I do not intend to commit copyright infringement.</p>
+<p>All downloadable texts are within the <a href="https://www.gutenberg.org/help/faq.html">public domain</a> and legitimate under intellectual protection clauses for personal consumption.</p>
+<p><em>To my dismay, my preferred copies and translations may not be used.</em></p>
+<p><strong>DISCLAIMER:</strong> <em>Included authors may be somewhat controversial.</em></p>
+<small><i><b>If you are uninterested in engaging with these texts critically—please leave my site.</b></i></small>
+
+<p><strong>NOTE</strong>: <em>this is still largely unfinished; the texts are mostly organized chronologically.</em></p>
+<p><strong>TODO</strong>: <em>checksums, source links, license notices.</em></p>
+<h2 id="hahahugoshortcode2s1hbhb">
+
+
+<a href="https://library.tuckettlab.xyz/texts/theology/">Theology</a>
+</h2>
+<h2 id="hahahugoshortcode2s2hbhb">
+
+
+<a href="https://library.tuckettlab.xyz/texts/philosophy/">Philosophy</a>
+</h2>
+<h2 id="hahahugoshortcode2s3hbhb">
+
+
+<a href="https://library.tuckettlab.xyz/texts/history/">History</a>
+</h2>
+<h2 id="hahahugoshortcode2s4hbhb">
+
+
+<a href="https://library.tuckettlab.xyz/texts/literature/">General Literature</a>
+</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>General Literature</title>
+      <link>https://library.tuckettlab.xyz/texts/literature/</link>
+      <pubDate>Fri, 17 Oct 2025 05:37:54 -0600</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <guid>https://library.tuckettlab.xyz/texts/literature/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://library.tuckettlab.xyz/images/texts/literature/faust.webp&#34; alt=&#34;Gretchen Sentenced to Death (Faust) - Joseph Fay (1846)&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My collection of general literature—encompassing poetic works, ancient epics, to more modernistic texts.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="/images/texts/literature/faust.webp" alt="Gretchen Sentenced to Death (Faust) - Joseph Fay (1846)"></p>
+<p>My collection of general literature—encompassing poetic works, ancient epics, to more modernistic texts.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>History</title>
+      <link>https://library.tuckettlab.xyz/texts/history/</link>
+      <pubDate>Fri, 17 Oct 2025 05:37:54 -0600</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <guid>https://library.tuckettlab.xyz/texts/history/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://library.tuckettlab.xyz/images/texts/history/destruction.webp&#34; alt=&#34;The Course of Empire (Destruction) - Thomas Cole&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My collection of historical works—primarily focused on antiquity.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="/images/texts/history/destruction.webp" alt="The Course of Empire (Destruction) - Thomas Cole"></p>
+<p>My collection of historical works—primarily focused on antiquity.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>https://library.tuckettlab.xyz/texts/philosophy/</link>
+      <pubDate>Fri, 17 Oct 2025 05:37:54 -0600</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <guid>https://library.tuckettlab.xyz/texts/philosophy/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://library.tuckettlab.xyz/images/texts/philosophy/hares.webp&#34; alt=&#34;Three Hares Motif - Paderborn Cathedral&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My collection of philosophical works—primarily concerning Grecco-Roman and Enlightenment era texts.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="/images/texts/philosophy/hares.webp" alt="Three Hares Motif - Paderborn Cathedral"></p>
+<p>My collection of philosophical works—primarily concerning Grecco-Roman and Enlightenment era texts.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Theology</title>
+      <link>https://library.tuckettlab.xyz/texts/theology/</link>
+      <pubDate>Fri, 17 Oct 2025 05:37:54 -0600</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
+      <guid>https://library.tuckettlab.xyz/texts/theology/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://library.tuckettlab.xyz/images/texts/theology/ladder.webp&#34; alt=&#34;Ladder of Divine Ascent - Saint John Climacus&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My collection of theological works—ranging from exoteric, foundational texts to mystic works.&lt;/p&gt;&#xA;&lt;small&gt;&lt;i&gt;&lt;b&gt;(West to East)&lt;/b&gt;&lt;/i&gt;&lt;/small&gt;&#xA;&#xA;&lt;h2 id=&#34;west&#34;&gt;West&lt;/h2&gt;&#xA;&lt;h2 id=&#34;christianity&#34;&gt;Christianity&lt;/h2&gt;&#xA;&lt;h3 id=&#34;biblical-texts&#34;&gt;Biblical Texts&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/theoology/King_James-The_Bible.epub&#34;&gt;King James Bible&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/theology/Doauy_Rheims-The_Bible.epub&#34;&gt;Doauy-Rheims Bible&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;saints&#34;&gt;Saints&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/theology/Augustine-The_City_of_God1.epub&#34;&gt;St. Augustine - The City of God (Part 1)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/theology/Augustine-The_City_of_God2.epub&#34;&gt;St. Augustine - The City of God (Part 2)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/theology/Thomas_Aquinas-Pars_Prima_Secundae.epub&#34;&gt;St. Aquinas - Summa Theologica (Pars Prima Secundae)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/theology/Thomas_Aquinas-Secunda_Secundae.epub&#34;&gt;St. Aquinas - Summa Theologica (Secunda Secundae)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;near-east&#34;&gt;Near East&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/theology/Egyptian_Book_of_the_Dead&#34;&gt;Egyptian Book of the Dead&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><img src="/images/texts/theology/ladder.webp" alt="Ladder of Divine Ascent - Saint John Climacus"></p>
+<p>My collection of theological works—ranging from exoteric, foundational texts to mystic works.</p>
+<small><i><b>(West to East)</b></i></small>
+
+<h2 id="west">West</h2>
+<h2 id="christianity">Christianity</h2>
+<h3 id="biblical-texts">Biblical Texts</h3>
+<p><a href="/texts/theoology/King_James-The_Bible.epub">King James Bible</a></p>
+<p><a href="/texts/theology/Doauy_Rheims-The_Bible.epub">Doauy-Rheims Bible</a></p>
+<h3 id="saints">Saints</h3>
+<p><a href="/texts/theology/Augustine-The_City_of_God1.epub">St. Augustine - The City of God (Part 1)</a></p>
+<p><a href="/texts/theology/Augustine-The_City_of_God2.epub">St. Augustine - The City of God (Part 2)</a></p>
+<p><a href="/texts/theology/Thomas_Aquinas-Pars_Prima_Secundae.epub">St. Aquinas - Summa Theologica (Pars Prima Secundae)</a></p>
+<p><a href="/texts/theology/Thomas_Aquinas-Secunda_Secundae.epub">St. Aquinas - Summa Theologica (Secunda Secundae)</a></p>
+<h2 id="near-east">Near East</h2>
+<p><a href="/texts/theology/Egyptian_Book_of_the_Dead">Egyptian Book of the Dead</a></p>
+<h2 id="east">East</h2>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

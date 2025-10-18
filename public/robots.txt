@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://library.tuckettlab.xyz/sitemap.xml
