@@ -8,4 +8,4 @@ description = "Mason Tuckett's Philosophical Reading List"
 +++
 ![Three Hares Motif - Paderborn Cathedral](/images/texts/philosophy/hares.webp)
 
-My collection of philosophical works—primarily concerning Grecco-Roman and Enlightenment era texts.
+My collection of philosophical works—primarily concerning Greco-Roman and Enlightenment era texts.
