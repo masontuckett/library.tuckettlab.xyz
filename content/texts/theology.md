@@ -18,7 +18,7 @@ My collection of theological works—ranging from exoteric, foundational texts t
 
 ### Biblical Texts
 
-[King James Bible](/texts/theoology/King_James-The_Bible.epub)
+[King James Bible](/texts/theology/King_James-The_Bible.epub)
 
 [Doauy-Rheims Bible](/texts/theology/Doauy_Rheims-The_Bible.epub)
 
@@ -34,6 +34,6 @@ My collection of theological works—ranging from exoteric, foundational texts t
 
 ## Near East
 
-[Egyptian Book of the Dead](/texts/theology/Egyptian_Book_of_the_Dead)
+[Egyptian Book of the Dead](/texts/theology/Egyptian_Book_of_the_Dead.epub)
 
 ## East
