@@ -2,7 +2,7 @@
 
 **[My Personal Reading List (Open Library) With Public Domain Texts](https://library.tuckettlab.xyz)**
 
-*Texts without legal downloads are only **recommended**, without **any** access to unauthorized materials.*
+*Non-legal texts are only **recommended**, without **any** access to unauthorized materials.*
 
 __*(No copyright infringement occurs.)*__
 
