@@ -20,17 +20,18 @@ __Checksums:__ [SHA2-512](/texts/theology/SHA2-512.txt)
 
 ### Biblical Texts
 
-__The King James Version of the Bible__
-
-- Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/10)*
-- Copyright: *Public Domain (USA)*
-- Download: *[EPUB3](/texts/theology/King_James-The_Bible.epub)*
-
 __Douay-Rheims Bible (Challoner Revision)__
 
 - Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/8300)*
 - Copyright: *Public Domain (USA)*
 - Download: *[EPUB3](/texts/theology/Douay_Rheims-The_Bible.epub)*
+
+
+__King James Bible__
+
+- Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/10)*
+- Copyright: *Public Domain (USA)*
+- Download: *[EPUB3](/texts/theology/King_James-The_Bible.epub)*
 
 ### Saints
 
