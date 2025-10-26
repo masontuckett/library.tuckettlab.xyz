@@ -55,7 +55,7 @@ a {
   background-repeat:no-repeat;
   background-position:center;
   background-size:contain;
-  background-image:url('/images/logo.png');
+  background-image:url('/images/logo.webp');
 }
 
 content{
@@ -163,6 +163,13 @@ margin-bottom: 4px;
 font-size: 1px;
 }
 
+#tor, #clear {
+margin-top: 12.5px;
+width: 30px;
+height: 30px;
+padding: 0px 10px 0px 10px;
+}
+
 .helptext {
   color: #aaa;
   font-size: small;
@@ -251,4 +258,3 @@ figcaption > p {
     font-size: 15px;
   }
 }
-

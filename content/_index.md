@@ -6,7 +6,7 @@ menu = "main"
 author = "Mason Tuckett"
 description = "Mason Tuckett's Home Page"
 +++
-![Circle of Angels (Paradiso) - Gustave Dore](/images/dore.jpg)
+![Circle of Angels (Paradiso) - Gustave Dore](/images/dore.webp)
 
 *My Personal Compendium of Literature*
 
