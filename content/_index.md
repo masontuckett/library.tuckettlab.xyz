@@ -18,6 +18,7 @@ description = "Mason Tuckett's Home Page"
 
 - [About](/about)
 - [Contact](/contact)
+- [Checksums](/sha512-hashes.txt)
 - [Privacy Policy](/privacy-policy.txt)
 - [Mirror Statement](/tor-mirror-statement.txt)
 - [RSS](/index.xml)

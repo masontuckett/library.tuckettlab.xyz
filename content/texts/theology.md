@@ -12,6 +12,7 @@ My collection of theological volumes—ranging from exoteric, foundational texts
 
 {{< small >}}(West to East){{</ small >}}
 
+__Sig:__ [ASC](/texts/theology/SHA2-512.asc)
 __Checksums:__ [SHA2-512](/texts/theology/SHA2-512.txt)
 
 # West
