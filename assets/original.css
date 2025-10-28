@@ -257,4 +257,7 @@ figcaption > p {
     margin-right: 0;
     font-size: 15px;
   }
+  .brand .site-title {
+    font-size: 20px;
+}
 }
