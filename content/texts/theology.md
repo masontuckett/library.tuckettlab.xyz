@@ -95,7 +95,7 @@ __Martin Luther - Works of Martin Luther Vol. I (Jacobs)__
 
 __Martin Luther - Works of Martin Luther Vol. II (Jacobs)__
 
-- Source:*[Project Gutenberg](https://www.gutenberg.org/ebooks/34904)*
+- Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/34904)*
 - Copyright: *Public Domain (USA)*
 - Download: *[EPUB3](/texts/theology/Martin_Luther-Works_Vol_2.epub)*
 
