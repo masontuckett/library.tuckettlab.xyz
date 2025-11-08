@@ -1,2 +1,4 @@
 
 .hugo_build.lock
+layouts/index.nginxconf
+public/sri-css.conf
