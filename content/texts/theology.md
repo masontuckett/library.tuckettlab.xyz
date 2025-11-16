@@ -119,7 +119,7 @@ __The Egyptian Book of the Dead (Renouf, et al.)__
 
 ## Hinduism
 
-## 
+## Buddhism
 
 __Dhammapada, a Collection of Verses (Müller)__
 

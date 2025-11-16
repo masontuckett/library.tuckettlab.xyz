@@ -21,7 +21,7 @@ __DISCLAIMER:__ *Included authors may be somewhat controversial.*
 
 **NOTE**: *this is still largely unfinished; the texts are mostly organized chronologically.*
 
-**TODO**: *checksums, source links, license notices.*
+**TODO**: *Finish Theology section, progress to Philosophy.*
 
 ## {{< dynamic-link "texts/theology/" "Theology" >}}
 
