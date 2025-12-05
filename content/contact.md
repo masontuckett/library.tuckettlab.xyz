@@ -33,3 +33,13 @@ t6vN2CWgUgXvgQM=
 =GG33
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+## Find Me Here
+
+### (Main Site)
+
+- [Clearnet](https://masontuckett.xyz/)
+
+- [Onion Mirror](http://mtuckod2ooelmftsiaxps3uod2fqwri5fmlh3opftl3aslk2jun3sgqd.onion/)
+
+- [I2P Mirror](http://mjnt7z23l6nhugddsn7yokk3veiegyozjw27kymzry7chjlriqiq.b32.i2p/)
