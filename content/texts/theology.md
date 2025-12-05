@@ -28,7 +28,6 @@ __Douay-Rheims Bible (Challoner Revision)__
 - Copyright: *Public Domain (USA)*
 - Download: *[EPUB3](/texts/theology/Douay_Rheims-The_Bible.epub)*
 
-
 __King James Bible__
 
 - Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/10)*
@@ -37,17 +36,23 @@ __King James Bible__
 
 ### Saints
 
-__St. Augustine - The City of God Vol. I (Dods)__
+__St. Augustine (Hippo) - The City of God Vol. I (Dods)__
 
 - Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/45304)*
 - Copyright: *Public Domain (USA)*
 - Download: *[EPUB3](/texts/theology/Augustine-The_City_of_God1.epub)*
 
-__St. Augustine - The City of God Vol. II (Dods)__
+__St. Augustine (Hippo) - The City of God Vol. II (Dods)__
 
 - Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/45305)*
 - Copyright: *Public Domain (USA)*
 - Download: *[EPUB3](/texts/theology/Augustine-The_City_of_God2.epub)*
+
+__St. Augustine (Hippo) - The Confessions (Bouverie)__
+
+- Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/3296)*
+- Copyright: *Public Domain (USA)*
+- Download: *[EPUB3](/texts/theology/Augustine-The_Confessions.epub)*
 
 __St. Aquinas - Summa Theologica, Pars Prima Secundae (CAE)__
 
@@ -60,6 +65,24 @@ __St. Aquinas - Summa Theologica, Tertia Pars (CAE)__
 - Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/19950)*
 - Copyright: *Public Domain (USA)*
 - Download: *[EPUB3](/texts/theology/Thomas_Aquinas-Tertia_Pars.epub)*
+
+__St. Benedict (Nursia) - Rules for Monasteries (Doyle)__
+
+- Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/50040)*
+- Copyright: *Public Domain (USA)*
+- Download: *[EPUB3](/texts/theology/Benedict-Rules_for_Monasteries.epub)*
+
+__St. Clement (Alexandria) - Writings Vol. 1 (Wilson)__
+
+- Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/71937)*
+- Copyright: *Public Domain (USA)*
+- Download: *[EPUB3](/texts/theology/Clement-Writings1.epub)*
+
+__St. Clement (Alexandria) - Writings Vol. 2 (Wilson)__
+
+- Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/71937)*
+- Copyright: *Public Domain (USA)*
+- Download: *[EPUB3](/texts/theology/Clement-Writings2.epub)*
 
 __St. Chrysostom - Leaves from St. John Chrysostom (Allies)__
 
@@ -99,11 +122,19 @@ __Martin Luther - Works of Martin Luther Vol. II (Jacobs)__
 - Copyright: *Public Domain (USA)*
 - Download: *[EPUB3](/texts/theology/Martin_Luther-Works_Vol_2.epub)*
 
+### Mysticism
+
+### Esotericism
+
 ## Paganism
 
 # Near East
 
 ## Islam
+
+### Mysticism
+
+### Esotericism
 
 ## Paganism
 
