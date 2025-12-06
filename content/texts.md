@@ -19,9 +19,9 @@ __DISCLAIMER:__ *Included authors may be somewhat controversial.*
 
 {{< small >}}If you are uninterested in engaging with these texts critically—please leave my site.{{</ small >}} 
 
-**NOTE**: *this is still largely unfinished; the texts are mostly organized chronologically.*
+**NOTE**: *This is still largely unfinished; I will update my curation in my (limited) leisure*.
 
-**TODO**: *Finish Theology section, progress to Philosophy.*
+**TODO**: *Finish remaining sections (~ 1/5th complete)*.
 
 ## {{< dynamic-link "texts/theology/" "Theology" >}}
 
