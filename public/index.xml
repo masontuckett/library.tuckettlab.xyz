@@ -92,22 +92,22 @@ t6vN2CWgUgXvgQM=
 
 <p><strong>NOTE</strong>: <em>this is still largely unfinished; the texts are mostly organized chronologically.</em></p>
 <p><strong>TODO</strong>: <em>Finish Theology section, progress to Philosophy.</em></p>
-<h2 id="hahahugoshortcode1s1hbhb">
+<h2 id="hahahugoshortcode5s1hbhb">
 
 
 <a href="https://library.tuckettlab.xyz/texts/theology/">Theology</a>
 </h2>
-<h2 id="hahahugoshortcode1s2hbhb">
+<h2 id="hahahugoshortcode5s2hbhb">
 
 
 <a href="https://library.tuckettlab.xyz/texts/philosophy/">Philosophy</a>
 </h2>
-<h2 id="hahahugoshortcode1s3hbhb">
+<h2 id="hahahugoshortcode5s3hbhb">
 
 
 <a href="https://library.tuckettlab.xyz/texts/history/">History</a>
 </h2>
-<h2 id="hahahugoshortcode1s4hbhb">
+<h2 id="hahahugoshortcode5s4hbhb">
 
 
 <a href="https://library.tuckettlab.xyz/texts/literature/">General Literature</a>
@@ -119,9 +119,235 @@ t6vN2CWgUgXvgQM=
       <link>https://library.tuckettlab.xyz/texts/literature/</link>
       <pubDate>Fri, 17 Oct 2025 05:37:54 -0600</pubDate><author>mason@tuckett.xyz (Mason Tuckett)</author>
       <guid>https://library.tuckettlab.xyz/texts/literature/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://library.tuckettlab.xyz/images/texts/literature/faust.webp&#34; alt=&#34;Gretchen Sentenced to Death (Faust) - Joseph Fay (1846)&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My collection of general literature—encompassing poetic works, ancient epics, to more modernistic texts.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://library.tuckettlab.xyz/images/texts/literature/faust.webp&#34; alt=&#34;Gretchen Sentenced to Death (Faust) - Joseph Fay (1846)&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My collection of general literature—encompassing poetic works, ancient epics, to more modernistic texts.&lt;/p&gt;&#xA;&lt;small&gt;&lt;i&gt;&lt;b&gt;(Primarily sorted alphabetically; pseudonyms are prioritized)&lt;/b&gt;&lt;/i&gt;&lt;/small&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Sig:&lt;/strong&gt; &lt;a href=&#34;https://library.tuckettlab.xyz/texts/literature/SHA2-512.asc&#34;&gt;ASC&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Checksums:&lt;/strong&gt; &lt;a href=&#34;https://library.tuckettlab.xyz/texts/literature/SHA2-512.txt&#34;&gt;SHA2-512&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;west&#34;&gt;West&lt;/h1&gt;&#xA;&lt;h2 id=&#34;epics&#34;&gt;Epics&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Beowulf (Kirtlan)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Source: &lt;em&gt;&lt;a href=&#34;https://www.gutenberg.org/ebooks/50742&#34;&gt;Project Gutenberg&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Copyright: &lt;em&gt;Public Domain (USA)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Download: &lt;em&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/literature/Beowulf.epub&#34;&gt;EPUB3&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Homer - The Illiad (Alexander)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Source: &lt;em&gt;&lt;a href=&#34;https://www.gutenberg.org/ebooks/6130&#34;&gt;Project Gutenberg&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Copyright: &lt;em&gt;Public Domain (USA)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Download: &lt;em&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/literature/Homer-The_Illiad.epub&#34;&gt;EPUB3&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Homer - The Odyssey (Alexander)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Source: &lt;em&gt;&lt;a href=&#34;https://www.gutenberg.org/ebooks/3160&#34;&gt;Project Gutenberg&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Copyright: &lt;em&gt;Public Domain (USA)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Download: &lt;em&gt;&lt;a href=&#34;https://library.tuckettlab.xyz/texts/literature/Homer-The_Odyssey.epub&#34;&gt;EPUB3&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ovid - The Metamorphoses Vol. I-VII (Riley)&lt;/strong&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><img src="/images/texts/literature/faust.webp" alt="Gretchen Sentenced to Death (Faust) - Joseph Fay (1846)"></p>
 <p>My collection of general literature—encompassing poetic works, ancient epics, to more modernistic texts.</p>
+<small><i><b>(Primarily sorted alphabetically; pseudonyms are prioritized)</b></i></small>
+
+<p><strong>Sig:</strong> <a href="/texts/literature/SHA2-512.asc">ASC</a></p>
+<p><strong>Checksums:</strong> <a href="/texts/literature/SHA2-512.txt">SHA2-512</a></p>
+<h1 id="west">West</h1>
+<h2 id="epics">Epics</h2>
+<p><strong>Beowulf (Kirtlan)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/50742">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Beowulf.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Homer - The Illiad (Alexander)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/6130">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Homer-The_Illiad.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Homer - The Odyssey (Alexander)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/3160">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Homer-The_Odyssey.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Ovid - The Metamorphoses Vol. I-VII (Riley)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/21765">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Ovid-The_Metamorphoses.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Virgil - The Aeneid (Dryden)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/228">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Virgil-The_Aeneid.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Dante Alighieri - The Divine Comedy (Cary)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/8795">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Alighieri-The_Divine_Comedy.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>John Milton - Paradise Lost</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/20">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Milton-Paradise_Lost.epub">EPUB3</a></em></li>
+</ul>
+<h2 id="gen-lit">Gen Lit</h2>
+<h3 id="english">English</h3>
+<p><strong>Joseph Conrad - Heart of Darkness</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/219">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Joseph_Conrad-Heart_of_Darkness.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>F. Scott Fitzgerald - The Great Gatsby</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/64317">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Fitzgerald-The_Great_Gatsby.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>James Joyce - Dubliners</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/2814">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Joyce-Dubliners.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>James Joyce - Ulysses</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/4300">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Joyce-Ulysses.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Hermann Melville - Moby Dick</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/2701">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Herman_Melville-Moby_Dick.epub">EPUB3</a></em></li>
+</ul>
+<h3 id="french">French</h3>
+<p><strong>Voltaire - Candide (Littell?)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/19942">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Voltaire-Candide.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Alexandre Dumas - The Count of Monte Cristo (Routledge)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/1184">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Dumas-The_Count_of_Monte_Cristo.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Victor Hugo - Les Misérables (Hapgood)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/135">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Hugo-Les_Miserables.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Gaston Leroux - The Phantom of the Opera (Mattos?)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/175">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Leroux-The_Phantom_of_the_Opera.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Marcel Proust - Swann&rsquo;s Way, ISOLT Vol. I (Scott-Moncrieff)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/7178">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Proust-Swanns_Way.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Marcel Proust - Within a Budding Grove, ISOLT Vol. II (Scott-Moncrieff)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/63532">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Proust-Within_a_Budding_Grove.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Marcel Proust - The Guermantes Way, ISOLT Vol. III (Scott-Moncrieff)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/73425">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Proust-The_Guermantes_Way.epub">EPUB3</a></em></li>
+</ul>
+<h3 id="german">German</h3>
+<p><strong>Johann Wolfgang von Goethe - Faust Vol. 1 (Clarke)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/14591">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Goethe-Faust1.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Hermann Hesse - Siddartha (Pullen, et al.)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/2500">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Hermann_Hesse-Siddhartha.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Hermann Hesse - Steppenwolf (Creighton)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/75756">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Hermann_Hesse-Steppenwolf.epub">EPUB3</a></em></li>
+</ul>
+<h3 id="iberian">Iberian</h3>
+<p><strong>Miguel de Cervantes - Don Quixote (Ormsby)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/996">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Cervantes-Don_Quixote.epub">EPUB3</a></em></li>
+</ul>
+<h3 id="russian">Russian</h3>
+<p><em>May God forgive those who murdered the Romanovs</em>.</p>
+<p><strong>Anton Chekhov - Collected Short Stories (Widger)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/57333">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Chekhov-Stories.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Fyodor Dostoyevsky - Crime and Punishment (Garnett)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/2554">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Dostoyevsky-Crime_and_Punishment.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Fyodor Dostoyevsky - Notes from the Underground (Boss)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/600">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Dostoyevsky-Notes_from_the_Underground.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Fyodor Dostoyevsky - The Brothers Karamazov (Garnett)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/28054">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Dostoyevsky-The_Brothers_Karamazov.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Fyodor Dostoyevsky - The Idiot (Martin)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/2638">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Dostoyevsky-The_Idiot.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Nikolai Gogol - Dead Souls (Hogarth)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/1081">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Gogol-Dead_Souls.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Leo Tolstoy - Anna Karenina (Garnett)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/1399">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Tolstoy-Anna_Karenina.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Leo Tolstoy - Resurrection (Maude)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/1938">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Tolstoy-Resurrection.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Leo Tolstoy - War and Peace (Maude)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/2600">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Tolstoy-War_and_Peace.epub">EPUB3</a></em></li>
+</ul>
+<p><strong>Ivan Turgenev - Father and Sons (Hogarth)</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/47935">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Turgenev-Father_and_Sons.epub">EPUB3</a></em></li>
+</ul>
+<h2 id="plays">Plays</h2>
+<p><strong>William Shakespeare - Complete Works</strong></p>
+<ul>
+<li>Source: <em><a href="https://www.gutenberg.org/ebooks/100">Project Gutenberg</a></em></li>
+<li>Copyright: <em>Public Domain (USA)</em></li>
+<li>Download: <em><a href="/texts/literature/Shakespeare-Complete_Works.epub">EPUB3</a></em></li>
+</ul>
+<small><i><b>(It's rather hard to decide whether Hamlet or Julius Caesar is my "favorite")</b></i></small>
+
+<h2 id="poetry">Poetry</h2>
+<h1 id="east">East</h1>
+<h2 id="epics-1">Epics</h2>
+<h2 id="plays-1">Plays</h2>
+<h2 id="poetry-1">Poetry</h2>
+<h2 id="gen-lit-1">Gen Lit</h2>
 ]]></content:encoded>
     </item>
     <item>
