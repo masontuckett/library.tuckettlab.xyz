@@ -148,7 +148,7 @@ __Johann Wolfgang von Goethe - Faust Vol. 1 (Clarke)__
 - Copyright: *Public Domain (USA)*
 - Download: *[EPUB3](/texts/literature/Goethe-Faust1.epub)*
 
-__Hermann Hesse - Siddartha (Pullen, et al.)__
+__Hermann Hesse - Siddhartha (Pullen, et al.)__
 
 - Source: *[Project Gutenberg](https://www.gutenberg.org/ebooks/2500)*
 - Copyright: *Public Domain (USA)*
