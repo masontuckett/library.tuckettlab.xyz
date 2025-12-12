@@ -12,7 +12,7 @@ __*(No copyright infringement occurs.)*__
  - [Mozilla HTTP Observatory (CSP)](https://developer.mozilla.org/en-US/observatory/analyze?host=library.tuckettlab.xyz)
  - [Google PageSpeed Insights](https://pagespeed.web.dev/analysis/https-library-tuckettlab-xyz/oehar7dmr2?form_factor=mobile)
 
-*No AWS/Cloudflare/Google/Oracle, JS, logs, or analytics; your privacy matters!*
+*No AWS/Cloudflare/Google/Oracle, JS; your privacy matters!*
 
 *Built locally using [Hugo](https://gohugo.io/) (pushing public); servers should be lean.*
 
