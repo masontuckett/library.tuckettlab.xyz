@@ -10,9 +10,7 @@ description = "Mason Tuckett's Historical Reading List"
 
 My collection of historical works—primarily focused on antiquity.
 
-*Pardon my Anglophile proclivities*.
-
-{{< small >}}(With great love to the mightiest empire of history—and her continued dominance via the Anglosphere){{</ small >}}
+{{< small >}}Pardon my Anglophile proclivities.{{</ small >}}
 
 __Sig:__ [ASC](/texts/history/SHA2-512.asc)
 
