@@ -1,0 +1,9 @@
+{{ define "main" }}
+<content>
+  {{ if not .Params.menu }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
+
+  {{ .Content }}
+</content>
+{{ end }}

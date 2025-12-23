@@ -1,12 +1,10 @@
 +++
 title =  "Categories"
+description = "Mason Tuckett's Categories Page"
+author = "Mason Tuckett"
 date = '2025-10-17T05:37:54-06:00'
 draft = false
-menu = "main"
-weight = 4
 hideReply = true
-author = "Mason Tuckett"
-description = "Mason Tuckett's Categories Page"
 +++
 
 This is largely an archive and curated reading list—as I do not intend to commit copyright infringement. 
